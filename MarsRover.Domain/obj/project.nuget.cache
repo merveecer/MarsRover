@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oF+rRg1Vyr3UUyZTG582XTPSFDv8V+6X2Ezs+TPNqfDdsgW16cEZ7GRxiwHIIPjVBZpgAvtvmGze1QjVPbhouw==",
+  "dgSpecHash": "rpHVKD3K2ZNZq1IsnxE/24bZcYv+WaRJE3lRMnrc+/tPeVaPRGGGv4nU+Jf0zYAUWLJCR7EfF0Uq93JtmxLj8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Merve Ecer\\Desktop\\New folder (9)\\MarsRover\\MarsRover\\MarsRover.Domain\\MarsRover.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Merve Ecer\\Source\\Repos\\MarsRover\\MarsRover.Domain\\MarsRover.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

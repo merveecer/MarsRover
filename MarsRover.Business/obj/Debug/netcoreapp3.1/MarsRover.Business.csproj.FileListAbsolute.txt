@@ -1,0 +1,15 @@
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover.Business\bin\Debug\netcoreapp3.1\MarsRover.Business.deps.json
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover.Business\bin\Debug\netcoreapp3.1\MarsRover.Business.dll
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover.Business\bin\Debug\netcoreapp3.1\MarsRover.Business.pdb
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover.Business\bin\Debug\netcoreapp3.1\MarsRover.Domain.dll
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover.Business\bin\Debug\netcoreapp3.1\MarsRover.Helper.dll
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover.Business\bin\Debug\netcoreapp3.1\MarsRover.Domain.pdb
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover.Business\bin\Debug\netcoreapp3.1\MarsRover.Helper.pdb
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover.Business\obj\Debug\netcoreapp3.1\MarsRover.Business.csproj.AssemblyReference.cache
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover.Business\obj\Debug\netcoreapp3.1\MarsRover.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover.Business\obj\Debug\netcoreapp3.1\MarsRover.Business.AssemblyInfoInputs.cache
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover.Business\obj\Debug\netcoreapp3.1\MarsRover.Business.AssemblyInfo.cs
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover.Business\obj\Debug\netcoreapp3.1\MarsRover.Business.csproj.CoreCompileInputs.cache
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover.Business\obj\Debug\netcoreapp3.1\MarsRover.Business.csproj.CopyComplete
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover.Business\obj\Debug\netcoreapp3.1\MarsRover.Business.dll
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover.Business\obj\Debug\netcoreapp3.1\MarsRover.Business.pdb

@@ -1,0 +1,91 @@
+C:\Users\Merve Ecer\Desktop\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.exe
+C:\Users\Merve Ecer\Desktop\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.deps.json
+C:\Users\Merve Ecer\Desktop\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.runtimeconfig.json
+C:\Users\Merve Ecer\Desktop\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.runtimeconfig.dev.json
+C:\Users\Merve Ecer\Desktop\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.dll
+C:\Users\Merve Ecer\Desktop\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.pdb
+C:\Users\Merve Ecer\Desktop\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.Business.dll
+C:\Users\Merve Ecer\Desktop\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.Domain.dll
+C:\Users\Merve Ecer\Desktop\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.Helper.dll
+C:\Users\Merve Ecer\Desktop\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.Business.pdb
+C:\Users\Merve Ecer\Desktop\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.Domain.pdb
+C:\Users\Merve Ecer\Desktop\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.Helper.pdb
+C:\Users\Merve Ecer\Desktop\MarsRover\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.csproj.AssemblyReference.cache
+C:\Users\Merve Ecer\Desktop\MarsRover\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merve Ecer\Desktop\MarsRover\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.AssemblyInfoInputs.cache
+C:\Users\Merve Ecer\Desktop\MarsRover\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.AssemblyInfo.cs
+C:\Users\Merve Ecer\Desktop\MarsRover\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.csproj.CoreCompileInputs.cache
+C:\Users\Merve Ecer\Desktop\MarsRover\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.csproj.CopyComplete
+C:\Users\Merve Ecer\Desktop\MarsRover\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.dll
+C:\Users\Merve Ecer\Desktop\MarsRover\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.pdb
+C:\Users\Merve Ecer\Desktop\MarsRover\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.genruntimeconfig.cache
+C:\Users\Merve Ecer\Desktop\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Merve Ecer\Desktop\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OmerSait\Desktop\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.exe
+C:\Users\OmerSait\Desktop\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.deps.json
+C:\Users\OmerSait\Desktop\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.runtimeconfig.json
+C:\Users\OmerSait\Desktop\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.runtimeconfig.dev.json
+C:\Users\OmerSait\Desktop\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.dll
+C:\Users\OmerSait\Desktop\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.pdb
+C:\Users\OmerSait\Desktop\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OmerSait\Desktop\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OmerSait\Desktop\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.Business.dll
+C:\Users\OmerSait\Desktop\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.Domain.dll
+C:\Users\OmerSait\Desktop\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.Helper.dll
+C:\Users\OmerSait\Desktop\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.Business.pdb
+C:\Users\OmerSait\Desktop\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.Domain.pdb
+C:\Users\OmerSait\Desktop\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.Helper.pdb
+C:\Users\OmerSait\Desktop\MarsRover\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.csprojAssemblyReference.cache
+C:\Users\OmerSait\Desktop\MarsRover\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.AssemblyInfoInputs.cache
+C:\Users\OmerSait\Desktop\MarsRover\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.AssemblyInfo.cs
+C:\Users\OmerSait\Desktop\MarsRover\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.csproj.CoreCompileInputs.cache
+C:\Users\OmerSait\Desktop\MarsRover\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.csproj.CopyComplete
+C:\Users\OmerSait\Desktop\MarsRover\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.dll
+C:\Users\OmerSait\Desktop\MarsRover\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.pdb
+C:\Users\OmerSait\Desktop\MarsRover\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.genruntimeconfig.cache
+C:\Users\Merve Ecer\Desktop\New folder (9)\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.exe
+C:\Users\Merve Ecer\Desktop\New folder (9)\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.deps.json
+C:\Users\Merve Ecer\Desktop\New folder (9)\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.runtimeconfig.json
+C:\Users\Merve Ecer\Desktop\New folder (9)\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.runtimeconfig.dev.json
+C:\Users\Merve Ecer\Desktop\New folder (9)\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.dll
+C:\Users\Merve Ecer\Desktop\New folder (9)\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.pdb
+C:\Users\Merve Ecer\Desktop\New folder (9)\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Merve Ecer\Desktop\New folder (9)\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Merve Ecer\Desktop\New folder (9)\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.Business.dll
+C:\Users\Merve Ecer\Desktop\New folder (9)\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.Domain.dll
+C:\Users\Merve Ecer\Desktop\New folder (9)\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.Helper.dll
+C:\Users\Merve Ecer\Desktop\New folder (9)\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.Business.pdb
+C:\Users\Merve Ecer\Desktop\New folder (9)\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.Domain.pdb
+C:\Users\Merve Ecer\Desktop\New folder (9)\MarsRover\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.Helper.pdb
+C:\Users\Merve Ecer\Desktop\New folder (9)\MarsRover\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.csproj.AssemblyReference.cache
+C:\Users\Merve Ecer\Desktop\New folder (9)\MarsRover\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merve Ecer\Desktop\New folder (9)\MarsRover\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.AssemblyInfoInputs.cache
+C:\Users\Merve Ecer\Desktop\New folder (9)\MarsRover\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.AssemblyInfo.cs
+C:\Users\Merve Ecer\Desktop\New folder (9)\MarsRover\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.csproj.CoreCompileInputs.cache
+C:\Users\Merve Ecer\Desktop\New folder (9)\MarsRover\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.csproj.CopyComplete
+C:\Users\Merve Ecer\Desktop\New folder (9)\MarsRover\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.dll
+C:\Users\Merve Ecer\Desktop\New folder (9)\MarsRover\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.pdb
+C:\Users\Merve Ecer\Desktop\New folder (9)\MarsRover\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.genruntimeconfig.cache
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.exe
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.deps.json
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.runtimeconfig.json
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.runtimeconfig.dev.json
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.dll
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.pdb
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.Business.dll
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.Domain.dll
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.Helper.dll
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.Business.pdb
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.Domain.pdb
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.Helper.pdb
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.csproj.AssemblyReference.cache
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.AssemblyInfoInputs.cache
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.AssemblyInfo.cs
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.csproj.CoreCompileInputs.cache
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.csproj.CopyComplete
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.dll
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.pdb
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.genruntimeconfig.cache

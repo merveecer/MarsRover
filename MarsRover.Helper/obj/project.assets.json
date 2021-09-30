@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Merve Ecer\\Desktop\\New folder (9)\\MarsRover\\MarsRover\\MarsRover.Helper\\MarsRover.Helper.csproj",
+      "projectUniqueName": "C:\\Users\\Merve Ecer\\Source\\Repos\\MarsRover\\MarsRover.Helper\\MarsRover.Helper.csproj",
       "projectName": "MarsRover.Helper",
-      "projectPath": "C:\\Users\\Merve Ecer\\Desktop\\New folder (9)\\MarsRover\\MarsRover\\MarsRover.Helper\\MarsRover.Helper.csproj",
+      "projectPath": "C:\\Users\\Merve Ecer\\Source\\Repos\\MarsRover\\MarsRover.Helper\\MarsRover.Helper.csproj",
       "packagesPath": "C:\\Users\\Merve Ecer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Merve Ecer\\Desktop\\New folder (9)\\MarsRover\\MarsRover\\MarsRover.Helper\\obj\\",
+      "outputPath": "C:\\Users\\Merve Ecer\\Source\\Repos\\MarsRover\\MarsRover.Helper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\MicrosoftVisualStudio\\Shared\\NuGetPackages",

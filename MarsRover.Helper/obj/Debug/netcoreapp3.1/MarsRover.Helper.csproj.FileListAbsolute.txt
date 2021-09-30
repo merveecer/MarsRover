@@ -27,3 +27,12 @@ C:\Users\Merve Ecer\Desktop\New folder (9)\MarsRover\MarsRover\MarsRover.Helper\
 C:\Users\Merve Ecer\Desktop\New folder (9)\MarsRover\MarsRover\MarsRover.Helper\obj\Debug\netcoreapp3.1\MarsRover.Helper.csproj.CoreCompileInputs.cache
 C:\Users\Merve Ecer\Desktop\New folder (9)\MarsRover\MarsRover\MarsRover.Helper\obj\Debug\netcoreapp3.1\MarsRover.Helper.dll
 C:\Users\Merve Ecer\Desktop\New folder (9)\MarsRover\MarsRover\MarsRover.Helper\obj\Debug\netcoreapp3.1\MarsRover.Helper.pdb
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover.Helper\bin\Debug\netcoreapp3.1\MarsRover.Helper.deps.json
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover.Helper\bin\Debug\netcoreapp3.1\MarsRover.Helper.dll
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover.Helper\bin\Debug\netcoreapp3.1\MarsRover.Helper.pdb
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover.Helper\obj\Debug\netcoreapp3.1\MarsRover.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover.Helper\obj\Debug\netcoreapp3.1\MarsRover.Helper.AssemblyInfoInputs.cache
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover.Helper\obj\Debug\netcoreapp3.1\MarsRover.Helper.AssemblyInfo.cs
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover.Helper\obj\Debug\netcoreapp3.1\MarsRover.Helper.csproj.CoreCompileInputs.cache
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover.Helper\obj\Debug\netcoreapp3.1\MarsRover.Helper.dll
+C:\Users\Merve Ecer\Source\Repos\MarsRover\MarsRover.Helper\obj\Debug\netcoreapp3.1\MarsRover.Helper.pdb
