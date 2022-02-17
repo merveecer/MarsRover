@@ -9,15 +9,15 @@ namespace MarsRover.Business.BusinessManager
     public interface IRoverService
     {
         string[] TakeRoverInformation(Plateau plateau);
-        void SetRoverInstructions(ref Rover rover);
-        void SetRoverDirection(ref Rover rover, string direction);
+        void SetRoverInstructions(Rover rover);
+        void SetRoverDirection(Rover rover, string direction);
 
         Rover CreateRover(Coordinate initialCoordinate, string direction);
         Rover ConfigureRover(string[] information);
-        bool Move(ref Rover rover, int directionIndex, Plateau plateau);
+        bool Move(Rover rover, int directionIndex, Plateau plateau);
         int ChangeOrientation(char newDirection, int indexOfDirection);
 
-        bool ApplyInstructions(ref Rover rover, Plateau plateau);
+        bool ApplyInstructions(Rover rover, Plateau plateau);
         void Execute(Rover firstRover, Rover secondRover, Plateau plateau);
         #region Validations and Controls
         bool ValidateInstructions(string instructions);

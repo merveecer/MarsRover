@@ -28,7 +28,7 @@ namespace MarsRover.Business.BusinessManager
             while (!result || !isChecked);
             return inputs;
         }
-        public void SetRoverInstructions(ref Rover rover)
+        public void SetRoverInstructions(Rover rover)
         {
             bool result = false;
             string instructions = "";
@@ -42,7 +42,7 @@ namespace MarsRover.Business.BusinessManager
 
             rover.Instructions = instructions;
         }
-        public void SetRoverDirection(ref Rover rover, string direction)
+        public void SetRoverDirection(Rover rover, string direction)
         {
             rover.Direction = direction;
         }
@@ -57,10 +57,10 @@ namespace MarsRover.Business.BusinessManager
             var coordinate = new Coordinate(Convert.ToInt32(information[0]), Convert.ToInt32(information[1]));
             var rover = CreateRover(coordinate, information[2]);
 
-            SetRoverInstructions(ref rover);
+            SetRoverInstructions(rover);
             return rover;
         }
-        public bool Move(ref Rover rover, int directionIndex, Plateau plateau)
+        public bool Move(Rover rover, int directionIndex, Plateau plateau)
         {
             switch (directionIndex)
             {
@@ -122,7 +122,7 @@ namespace MarsRover.Business.BusinessManager
             return indexOfDirection;
 
         }
-        public bool ApplyInstructions(ref Rover rover, Plateau plateau)
+        public bool ApplyInstructions(Rover rover, Plateau plateau)
         {
             var result = true;
             var directionEnum = Enums.GetValueFromDescription<Direction>(rover.Direction);
@@ -132,9 +132,9 @@ namespace MarsRover.Business.BusinessManager
                 switch (i)
                 {
                     case 'M':
-                        result = Move(ref rover, indexOfDirection, plateau);
+                        result = Move(rover, indexOfDirection, plateau);
                         if (!result) return result;
-                        SetRoverDirection(ref rover, Helper.Helper.GetDirectionNameByIndex(indexOfDirection));
+                        SetRoverDirection(rover, Helper.Helper.GetDirectionNameByIndex(indexOfDirection));
                         break;
 
                     case 'L':
@@ -151,8 +151,8 @@ namespace MarsRover.Business.BusinessManager
         }
         public void Execute(Rover firstRover, Rover secondRover, Plateau plateau)
         {
-            var result1 = ApplyInstructions(ref firstRover, plateau);
-            var result2 = ApplyInstructions(ref secondRover, plateau);
+            var result1 = ApplyInstructions(firstRover, plateau);
+            var result2 = ApplyInstructions(secondRover, plateau);
             Console.WriteLine(result1 ? (firstRover.currentPosition.xPosition + " " + firstRover.currentPosition.yPosition + " " + firstRover.Direction) : "First Rover is overflowed");
             Console.WriteLine(result2 ? (secondRover.currentPosition.xPosition + " " + secondRover.currentPosition.yPosition + " " + secondRover.Direction) : "Second Rover is overflowed");
         }
